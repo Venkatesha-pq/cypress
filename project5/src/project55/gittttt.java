@@ -1,6 +1,7 @@
 package project55;
 
 public class gittttt {
-  ehhjfkjgfkejg
+ public static void main String args[]{
+   Sysout("satya annayya")
 
 }
